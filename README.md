@@ -1,3 +1,6 @@
-<div align="center">
-  <img src="https://pub-db81a8cf9cd147f9a765ef1a1a5c57c7.r2.dev/BeepLighter/1762669197108-66xtmgsmth8.png" id="boowomp">
-</div>
+lazy programmer and web porter
+
+maintainer of the web port list
+
+xmr: 453voKEE8zue8cdMi9JWZZWk4pHjxwKh7ZJeUv2uP69hd74cYJkK3qzdbn35SDZYCQAecbdkuxwJuVFjyCFWwiVoHaf6spT
+
