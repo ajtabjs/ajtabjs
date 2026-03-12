@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="align:center;">
   <img src="dexter-stare.png" alt="dexter morgan staring at you" width="50%" style="margin:auto;">
 </div>
 
