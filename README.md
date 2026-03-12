@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+  <img src="dexter-stare.png" alt="dexter morgan staring at you" width="50%" style="margin:auto;">
+</div>
+
 lazy programmer and web porter
 
 maintainer of the web port list
