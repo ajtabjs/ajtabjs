@@ -8,6 +8,8 @@ maintainer of the web port list
 
 <details>
 <summary><b>support me</b></summary>
+<b>i dont have anything other than crypto cause of kyc (know your customer)</b>
+
 
 monero (xmr): ``453voKEE8zue8cdMi9JWZZWk4pHjxwKh7ZJeUv2uP69hd74cYJkK3qzdbn35SDZYCQAecbdkuxwJuVFjyCFWwiVoHaf6spT``
 
