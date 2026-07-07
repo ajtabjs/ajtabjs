@@ -8,7 +8,7 @@ maintainer of the web port list
 
 <details>
 <summary><b>support me</b></summary>
-<p><b>dont have crypto?</b> star a repo or donate to <a href="https://hcb.hackclub.com/donations/start/pydra" target="_blank">the pydra project</a>!</p>
+<p><b>dont have crypto?</b> star a <a href="https://github.com/gays-studio/web-port-list" target="_blank">repo</a> or donate to <a href="https://hcb.hackclub.com/donations/start/pydra" target="_blank">the pydra project</a>!</p>
 
 
 monero (xmr): ``453voKEE8zue8cdMi9JWZZWk4pHjxwKh7ZJeUv2uP69hd74cYJkK3qzdbn35SDZYCQAecbdkuxwJuVFjyCFWwiVoHaf6spT``
