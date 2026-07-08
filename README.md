@@ -16,6 +16,9 @@ monero (xmr): ``453voKEE8zue8cdMi9JWZZWk4pHjxwKh7ZJeUv2uP69hd74cYJkK3qzdbn35SDZY
 bitcoin (btc): ``bc1q6gpk875f48hslsp5a5rzevd0apae8aujvjuue4``
 
 bitcoin cash (bch): ``qry70f88srzuffcsskkmgaa7qd9mqcvqs5mfn39zed``
+
+usdt:
+``UQCUYUB8eSoBi-wkWqE8UPpMNzdPV3lVvXgXHRUhlMnsjac5``
 </details>
 </div>
 
